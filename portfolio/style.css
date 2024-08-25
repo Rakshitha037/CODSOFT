@@ -700,4 +700,20 @@ p {
 		margin: 1.5%;
 	}
 }
+
+.box-link {
+    color: white;
+    background-color: #007bff; /* Button color */
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+
+.box-link:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+
 /* End  Media Query For Desktop */
